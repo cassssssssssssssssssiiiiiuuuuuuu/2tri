@@ -1,0 +1,22 @@
+img {
+   border-width: 10px;
+   border-color: black;
+   border-style: double;
+   width: 500px;
+
+}
+body{
+
+    text-align: center;}
+
+.parte1 {
+    background-color: black;
+    color: white;
+    
+}
+   
+.parte2 {
+    background-color: black;
+    color: aliceblue;
+    padding: 08px;
+}
